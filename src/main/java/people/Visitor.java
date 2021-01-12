@@ -23,4 +23,5 @@ public class Visitor {
     public double getMoney() {
         return money;
     }
+
 }

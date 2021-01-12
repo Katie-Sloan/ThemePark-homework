@@ -13,5 +13,4 @@ public class TobaccoStall extends Stall implements ISecurity {
         return visitor.getAge() >= 18;
     }
 
-
 }
